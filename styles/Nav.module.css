@@ -1,0 +1,12 @@
+.nav {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.link {
+    padding: 1em;
+    border-bottom: 2px solid black;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
